@@ -40,7 +40,7 @@ The dataset contains transaction-level retail data, including customer demograph
 | Time | Month & Year of Purchase |
 
 ### Age Categories:
-Adult, Youth, and Elderly — used to evaluate purchasing power and category preference across life stages.
+Adult, Youth, and Elderly - used to evaluate purchasing power and category preference across life stages.
 
 ## 🧹 Data Preparation & Feature Engineering
 Data preparation was performed using Excel and Power Query. The following steps were applied:
