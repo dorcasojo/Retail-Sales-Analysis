@@ -112,4 +112,4 @@ Use gender-specific product preferences to guide targeted email campaigns and in
 4. Expand the dataset to include store location for regional sales comparison.
 
 ## 🙏 Acknowledgements
-Special thanks to the data analytics community and Excel resources that supported the development of this project.
+Grateful to the online Excel and data visualization community for the inspiration and guidance behind this dashboard's design.
